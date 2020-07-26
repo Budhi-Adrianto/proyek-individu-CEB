@@ -16,12 +16,6 @@ const inputNumber = (number) => {
   }
 }
 
-const reset = () {
-  if() {
-    
-  }
-}
-
 const numbers = document.querySelectorAll(".number");
 
 numbers.forEach((number) => {
